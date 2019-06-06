@@ -1,11 +1,16 @@
 _repo: The-Creation-of-God_59651
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59651-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Hartmann, Jacob
     gutenberg_agent_id: '50554'
     url: http://www.gutenberg.org/2009/agents/50554
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59651#The-Creation-of-God
 gutenberg_issued: '2019-06-01'
 gutenberg_type: Text
 identifiers:
